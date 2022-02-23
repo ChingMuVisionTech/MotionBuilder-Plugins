@@ -4,11 +4,11 @@
 数据流包括：实时人物关节数据和刚体的数据
 
 **插件下载：**    
-[MotionBuilder2016_Plugin_v1.2](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2016/MotionBuilder_v1.2.rar)      
-[MotionBuilder2017_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2017/MotionBuilder2017_v1.0.zip)    
-[MotionBuilder2018_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2018/MotionBuilder2018_v1.0.zip)    
+[MotionBuilder2016_Plugin_v1.2](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2016/MotionBuilder_v1.2.zip)      
+[MotionBuilder2017_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2017/MotionBuilder2017_v1.0.rar)    
+[MotionBuilder2018_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2018/MotionBuilder2018_v1.0.rar)    
 [MotionBuilder2019_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2019/MotionBuilder2019_v1.0.zip)    
-[MotionBuilder2020_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2020/MotionBuilder2020_v1.0.zip)    
+[MotionBuilder2020_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2020/MotionBuilder2020_v1.0.rar)    
 
 
 ## 一、简介  
