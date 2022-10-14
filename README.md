@@ -8,7 +8,7 @@
 [MotionBuilder2017_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2017/MotionBuilder2017_v1.0.rar)    
 [MotionBuilder2018_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2018/MotionBuilder2018_v1.0.rar)    
 [MotionBuilder2019_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2019/MotionBuilder2019_v1.0.rar)    
-[MotionBuilder2020_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2020/MotionBuilder2020_v1.0.rar)    
+[MotionBuilder2020_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/v1.1/MotionBuilder2020_v1.1.zip)    
 
 
 ## 一、简介  
