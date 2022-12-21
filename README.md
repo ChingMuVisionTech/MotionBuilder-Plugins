@@ -1,15 +1,11 @@
 # MotionBuilder-Plugins  
 功能描述：实时数据流传输和录制  
-版本包括：Motionbuilder 2016-2020(64-bit)  
-数据流包括：实时人物关节数据和刚体的数据
+版本包括：Motionbuilder 2016-2020以及2022(64-bit)  
+数据流包括：实时人物关节数据和刚体的数据（2020及2022版本还包含人物手指关节的数据）
 
-**插件下载：**    
-[MotionBuilder2016_Plugin_v1.2](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2016/MotionBuilder_v1.2.rar)      
-[MotionBuilder2017_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2017/MotionBuilder2017_v1.0.rar)    
-[MotionBuilder2018_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2018/MotionBuilder2018_v1.0.rar)    
-[MotionBuilder2019_Plugin_v1.0](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2019/MotionBuilder2019_v1.0.rar)    
-[MotionBuilder2020_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/v1.1/MotionBuilder2020_v1.1.zip)    
-
+**插件下载：**     
+[MotionBuilder2020_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/v1.1/MotionBuilder2020_v1.1.rar)    
+[MotionBuilder2020_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/v1.1/MotionBuilder2022_v1.1.rar)    
 
 ## 一、简介  
 &emsp;&emsp;本文中介绍的MotionBuilder插件是由上海青瞳视觉自行研发的，此插件可以实时接收青瞳视觉动捕数据。然后通过角色化绑定骨骼,让MotionBuilder场景中的角色跟着青瞳动捕捕捉运动员的动作而运动。此外，还可以将动捕演员的动作录制下来。
