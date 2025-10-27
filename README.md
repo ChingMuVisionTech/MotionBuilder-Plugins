@@ -6,7 +6,7 @@
 **插件下载：**     
 [MotionBuilder2020_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/v1.1/MotionBuilder2020_v1.1.rar)    
 [MotionBuilder2022_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2022/MotionBuilder2022_v1.1.rar)    
-[MotionBuilder2023_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2023/MotionBuilder2023_v1.1.zip)
+[MotionBuilder2023_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2023/MotionBuilder2023_v1.1.zip)   
 [MotionBuilder2024_Plugin_v1.1](https://github.com/ChingMuVisionTech/MotionBuilder-Plugins/releases/download/2023/MotionBuilder2024_v1.1.zip)
 
 ## 一、简介  
